@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+int main()
+{
+  print("hello Git\n");
+}
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+  cout<<"hello Git"<<endl;
+}
+
+print('heelo Git')
+
+class HelloWorld
+{
+  public static void main(String args[])
+  {
+    system.out.println("hellow Git");
+  }
+}
